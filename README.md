@@ -8,7 +8,7 @@ Objetivo 🤔
 
 ¿Qué patrones significativos se pueden analizar en el rendimiento de atletas, equipos y eventos deportivos?
 
-Además, se abordan hipótesis secundarias específicas relacionadas con deportes y competiciones:
+Además, se abordan hipótesis secundarias específicas relacionadas con deportes y competiciones: 💡
 
 ¿Los puntos promedio por partido en la NBA han aumentado o disminuido en los últimos 20 años?
 
@@ -23,7 +23,7 @@ Además, se abordan hipótesis secundarias específicas relacionadas con deporte
 ¿La edad influye en el rendimiento dentro del ring?
 
 Dataset 
-Se utilizaron múltiples fuentes para obtener datos relevantes:
+, se utilizaron múltiples fuentes para obtener datos relevantes: 📊
 
 Estadísticas históricas de la NBA.
 
@@ -33,7 +33,7 @@ Información sobre deportes de combate y boxeo.
 
 Los datos fueron procesados para garantizar consistencia y limpieza 
 
-Metodología
+Metodología 🔗
 El análisis se dividió en las siguientes etapas:
 
 Cargado y limpieza de datos: Eliminación de valores nulos y duplicados 
