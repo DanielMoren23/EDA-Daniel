@@ -6,7 +6,8 @@ Este proyecto tiene como objetivo explorar cómo las estadísticas deportivas ha
 
 Objetivo 🤔
 
-El principal objetivo es responder a la hipótesis: ¿Qué patrones significativos se pueden analizar en el rendimiento de atletas, equipos y eventos deportivos?
+El principal objetivo es responder a la hipótesis: 
+¿Qué patrones significativos se pueden analizar en el rendimiento de atletas, equipos y eventos deportivos?
 
 Además, se abordan hipótesis secundarias específicas relacionadas con deportes y competiciones:
 
