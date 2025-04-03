@@ -33,8 +33,8 @@ Información sobre deportes de combate y boxeo.
 
 Los datos fueron procesados para garantizar consistencia y limpieza 
 
-Metodología 🔗
-El análisis se dividió en las siguientes etapas:
+Metodología 
+, el análisis se dividió en las siguientes etapas:🔗
 
 Cargado y limpieza de datos: Eliminación de valores nulos y duplicados 
 
