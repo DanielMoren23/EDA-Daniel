@@ -10,36 +10,36 @@ Objetivo 🤔
 
 Además, se abordan hipótesis secundarias específicas relacionadas con deportes y competiciones: 💡
 
-¿Los puntos promedio por partido en la NBA han aumentado o disminuido en los últimos 20 años?
+1. ¿Los puntos promedio por partido en la NBA han aumentado o disminuido en los últimos 20 años?
 
-¿El equipo anfitrión tiene más probabilidades de ganar en competiciones deportivas?
+2. ¿El equipo anfitrión tiene más probabilidades de ganar en competiciones deportivas?
 
-¿El número de empates en el fútbol ha cambiado con el tiempo?
+3. ¿El número de empates en el fútbol ha cambiado con el tiempo?
 
-¿Michael Jordan supera estadísticamente a LeBron James y Kobe Bryant?
+4. ¿Michael Jordan supera estadísticamente a LeBron James y Kobe Bryant?
 
-¿La cantidad de peleas previas afecta las posibilidades de ganar en deportes de combate?
+5. ¿La cantidad de peleas previas afecta las posibilidades de ganar en deportes de combate?
 
-¿La edad influye en el rendimiento dentro del ring?
+6. ¿La edad influye en el rendimiento dentro del ring?
 
 Dataset 
 , se utilizaron múltiples fuentes para obtener datos relevantes: 📊
 
-Estadísticas históricas de la NBA.
+- Estadísticas históricas de la NBA.
 
-Datos históricos sobre partidos de fútbol.
+- Datos históricos sobre partidos de fútbol.
 
-Información sobre deportes de combate y boxeo.
+- Información sobre deportes de combate y boxeo.
 
-Los datos fueron procesados para garantizar consistencia y limpieza 
+ Los datos fueron procesados para garantizar consistencia y limpieza 
 
 Metodología 
-, el análisis se dividió en las siguientes etapas:🔗
+, el análisis se dividió en las siguientes etapas: 🔗
 
-Cargado y limpieza de datos: Eliminación de valores nulos y duplicados 
+- Cargado y limpieza de datos: Eliminación de valores nulos y duplicados 
 
-Análisis descriptivo: Exploración inicial para identificar tendencias generales.
+- Análisis descriptivo: Exploración inicial para identificar tendencias generales.
 
-Visualización: Uso de gráficos para ilustrar patrones clave.
+- Visualización: Uso de gráficos para ilustrar patrones clave.
 
-Pruebas estadísticas: Validación de hipótesis. 
+
