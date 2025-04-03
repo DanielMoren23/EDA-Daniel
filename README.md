@@ -1,4 +1,5 @@
 Análisis Deportivo Multidisciplinario
+
 Descripción del proyecto
 Este proyecto tiene como objetivo explorar cómo las estadísticas deportivas han evolucionado a lo largo de los años en disciplinas como baloncesto, fútbol y eventos multidisciplinarios como los Juegos Olímpicos. A través de un análisis exploratorio de datos (EDA), buscamos identificar patrones significativos en el rendimiento de atletas, equipos y eventos deportivos.
 
