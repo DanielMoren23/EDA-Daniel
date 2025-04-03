@@ -1,9 +1,11 @@
-Análisis Deportivo Multidisciplinario
+Análisis Deportivo Multidisciplinario ⚽️🏀🥊
 
-Descripción del proyecto
-Este proyecto tiene como objetivo explorar cómo las estadísticas deportivas han evolucionado a lo largo de los años en disciplinas como baloncesto, fútbol y eventos multidisciplinarios como los Juegos Olímpicos. A través de un análisis exploratorio de datos (EDA), buscamos identificar patrones significativos en el rendimiento de atletas, equipos y eventos deportivos.
+Descripción del proyecto 📝
 
-Objetivo
+Este proyecto tiene como objetivo explorar cómo las estadísticas deportivas han evolucionado a lo largo de los años en disciplinas como baloncesto, fútbol y eventos multidisciplinarios como en eventos deportivos. A través de un análisis exploratorio de datos (EDA), buscamos identificar patrones significativos en el rendimiento de atletas, equipos y eventos.
+
+Objetivo 🤔
+
 El principal objetivo es responder a la hipótesis: ¿Qué patrones significativos se pueden analizar en el rendimiento de atletas, equipos y eventos deportivos?
 
 Además, se abordan hipótesis secundarias específicas relacionadas con deportes y competiciones:
@@ -20,12 +22,10 @@ Además, se abordan hipótesis secundarias específicas relacionadas con deporte
 
 ¿La edad influye en el rendimiento dentro del ring?
 
-Dataset
+Dataset 
 Se utilizaron múltiples fuentes para obtener datos relevantes:
 
 Estadísticas históricas de la NBA.
-
-Resultados y métricas oficiales de los Juegos Olímpicos.
 
 Datos históricos sobre partidos de fútbol.
 
